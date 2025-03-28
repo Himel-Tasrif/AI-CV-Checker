@@ -1,1 +1,1 @@
-Hello!! this is a repository
+Hello!! this is a repository of AI CV Checker
