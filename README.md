@@ -42,5 +42,3 @@ Integrate it with your existing platform
 Explore customization options
 
 📩 Message me directly or comment "CV AI" below – I'd love to discuss how this can benefit your organization!
-
-Tasrif Nur Himel
