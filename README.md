@@ -43,3 +43,7 @@ Integrate it with your existing platform
 Explore customization options
 
 Message me directly or comment "CV AI" below – I'd love to discuss how this can benefit your organization!
+
+### Contact with me
+
+If you want to contact with me you can reach me at [Mail](himel35-1078@diu.edu.bd) [Linkedin](https://www.linkedin.com/in/tasrifnurhimel/) 
