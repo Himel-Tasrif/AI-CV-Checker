@@ -9,6 +9,26 @@ As tech enthusiasts and problem-solvers, we recognized two major pain points:
 
 Our AI-powered solution addresses both challenges effortlessly!
 
+<div align="center">
+
+  <br />
+  <br />
+
+  <img src="./server/static/readme-images/flat images/home_logo.png" />
+
+  <h2 align="center">Flat inder - Real estate website</h2>
+
+  Flat Finder is fully responsive Real estate website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+
+</div>
+
+<br />
+
+### Demo Screeshots
+
+![homeverse Desktop Demo](./server/static/readme-images/desktop.png "Desktop Demo")
+![homeverse Mobile Demo](./server/static/readme-images/mobile.png "Mobile Demo")
+
 What It Does
 For Job Applicants:
 ✔ Instant CV scoring against any job description
