@@ -14,7 +14,7 @@ Our AI-powered solution addresses both challenges effortlessly!
   <br />
   <br />
 
-  <img src="./server/static/readme-images/flat images/home_logo.png" />
+  <img src="" />
 
   <h2 align="center">Flat inder - Real estate website</h2>
 
@@ -26,8 +26,8 @@ Our AI-powered solution addresses both challenges effortlessly!
 
 ### Demo Screeshots
 
-![homeverse Desktop Demo](./server/static/readme-images/desktop.png "Desktop Demo")
-![homeverse Mobile Demo](./server/static/readme-images/mobile.png "Mobile Demo")
+![homeverse Desktop Demo]( "Desktop Demo")
+![homeverse Mobile Demo]( "Mobile Demo")
 
 What It Does
 For Job Applicants:
