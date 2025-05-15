@@ -26,8 +26,8 @@ Our AI-powered solution addresses both challenges effortlessly!
 
 ### Demo Screeshots
 
-![homeverse Desktop Demo]( "Desktop Demo")
-![homeverse Mobile Demo]( "Mobile Demo")
+![cv_check Desktop Demo]( "Desktop Demo")
+![cv_check Mobile Demo]( "Mobile Demo")
 
 What It Does
 For Job Applicants:
