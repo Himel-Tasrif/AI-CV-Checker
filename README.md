@@ -16,9 +16,9 @@ Our AI-powered solution addresses both challenges effortlessly!
 
   <img src="" />
 
-  <h2 align="center">Flat inder - Real estate website</h2>
+  <h2 align="center">AI CV Checker</h2>
 
-  Flat Finder is fully responsive Real estate website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  AI CV Ckecker is fully responsive cv checking website, <br />Responsive for all devices, built with Python & JavaScript.
 
 </div>
 
