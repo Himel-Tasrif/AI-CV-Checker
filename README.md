@@ -4,7 +4,9 @@ I'm thrilled to announce that our team has successfully developed AI CV Checker 
 
 Why We Built This
 As tech enthusiasts and problem-solvers, we recognized two major pain points:
+
 1️⃣ Job seekers struggle to optimize their resumes for each application
+
 2️⃣ Recruiters waste countless hours manually screening hundreds of CVs
 
 Our AI-powered solution addresses both challenges effortlessly!
@@ -32,7 +34,9 @@ Our AI-powered solution addresses both challenges effortlessly!
 What It Does
 For Job Applicants:
 ✔ Instant CV scoring against any job description
+
 ✔ Identifies missing skills and suggests improvements
+
 ✔ Predicts likely interview questions based on your profile
 
 ### Prerequisites
