@@ -1,4 +1,4 @@
-# 🚀 AI CV Checker
+# AI CV Checker
 
 > Revolutionizing Resumes. Empowering Recruiters.
 
@@ -10,7 +10,7 @@ I'm excited to introduce **AI CV Checker** – a smart, responsive, and fully-fu
 
 ---
 
-## ✨ Why We Built This
+## Why We Built This
 
 As passionate problem-solvers, we noticed two huge pain points in the job market:
 
@@ -36,7 +36,7 @@ As passionate problem-solvers, we noticed two huge pain points in the job market
 
 ---
 
-## 🌐 Tech Stack
+## Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript (Responsive UI)
 - **Backend**: Python (AI & Logic)
@@ -45,7 +45,7 @@ Responsive across **desktop, tablet, and mobile**. Clean UX for both applicants 
 
 ---
 
-## 📸 Demo Screenshots
+## Demo Screenshots
 
 | Desktop Demo | Mobile Demo |
 |--------------|-------------|
@@ -55,22 +55,22 @@ Responsive across **desktop, tablet, and mobile**. Clean UX for both applicants 
 
 ---
 
-## 🧰 Prerequisites
+## Prerequisites
 
 Before running locally, ensure:
 
 - ✅ [Git](https://git-scm.com/downloads) is installed
-- ✅ Python 3.8+ environment setup
+- ✅ Python 3.10+ environment setup
 
 ---
 
-## 💡 Business Opportunity
+## Business Opportunity
 
 This AI tool is ready for integration into:
 
-- 🔌 Company Career Portals  
-- 👥 Recruitment Agency Platforms  
-- 🏢 HR Tech SaaS Products  
+-  Company Career Portals  
+-  Recruitment Agency Platforms  
+-  HR Tech SaaS Products  
 
 Use it to:
 
