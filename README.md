@@ -16,7 +16,7 @@ Our AI-powered solution addresses both challenges effortlessly!
   <br />
   <br />
 
-  <img src="" />
+  <img src="./Image/cv.png" />
 
   <h2 align="center">AI CV Checker</h2>
 
