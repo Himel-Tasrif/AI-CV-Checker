@@ -4,7 +4,7 @@
 
 I'm excited to introduce **AI CV Checker** – a smart, responsive, and fully-functional web application designed to **transform job applications and recruitment processes** using the power of AI.
 
-🔗 **Live Website**: [https://your-aicvchecker-domain.com](https://your-aicvchecker-domain.com)
+🔗 **Live Website**: [https://your-aicvchecker-domain.com](https://www.aicvchecker.software/)
 
 ![AI CV Checker Banner](./Image/cv.png)
 
