@@ -4,7 +4,7 @@
 
 I'm excited to introduce **AI CV Checker** – a smart, responsive, and fully-functional web application designed to **transform job applications and recruitment processes** using the power of AI.
 
-🔗 **Live Website**: [https://your-aicvchecker-domain.com](https://www.aicvchecker.software/)
+🔗 **Live Website**: [Ai-CV-Checker](https://www.aicvchecker.software/)
 
 ![AI CV Checker Banner](./Image/cv.png)
 
@@ -51,7 +51,7 @@ Responsive across **desktop, tablet, and mobile**. Clean UX for both applicants 
 |--------------|-------------|
 | ![Desktop](./Image/desktop_demo.png) | ![Mobile](./Image/mobile_demo.png) |
 
-🎥 **Video Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1kNqZJOCZfThBXK-FyzlNtbjpNcSACU6J/view?usp=drive_link)
+**Video Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1kNqZJOCZfThBXK-FyzlNtbjpNcSACU6J/view?usp=drive_link)
 
 ---
 
@@ -74,26 +74,26 @@ This AI tool is ready for integration into:
 
 Use it to:
 
-- ⏱ Save countless hours of manual screening  
-- 🧠 Improve hiring with data-driven decisions  
-- 🚀 Boost applicant success with smarter CVs  
+-  Save countless hours of manual screening  
+-  Improve hiring with data-driven decisions  
+-  Boost applicant success with smarter CVs  
 
 ---
 
-## 📬 Get In Touch
+## Get In Touch
 
-💼 Interested in licensing, integration, or collaboration?
+Interested in licensing, integration, or collaboration?
 
 ➡️ Message me directly  
 ➡️ Comment **"CV AI"**  
 ➡️ Or connect here:
 
-- 📧 Email: [himel35-1078@diu.edu.bd](mailto:himel35-1078@diu.edu.bd)  
-- 💼 LinkedIn: [Tasrif Nur Himel](https://www.linkedin.com/in/tasrifnurhimel/)
+-  Email: [himel35-1078@diu.edu.bd](mailto:himel35-1078@diu.edu.bd)  
+-  LinkedIn: [Tasrif Nur Himel](https://www.linkedin.com/in/tasrifnurhimel/)
 
 ---
 
-## 🛡️ License & Credits
+## License & Credits
 
 © 2025 [Tasrif Nur Himel](https://www.linkedin.com/in/tasrifnurhimel/). All rights reserved.
 
