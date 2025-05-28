@@ -14,25 +14,25 @@ I'm excited to introduce **AI CV Checker** – a smart, responsive, and fully-fu
 
 As passionate problem-solvers, we noticed two huge pain points in the job market:
 
-1. 🎯 Job seekers struggle to optimize resumes for each application.
-2. 🕒 Recruiters waste hours manually screening CVs.
+1. Job seekers struggle to optimize resumes for each application.
+2. Recruiters waste hours manually screening CVs.
 
 **AI CV Checker** bridges that gap with automation and intelligence.
 
 ---
 
-## 💼 What It Does
+## What It Does
 
 ### For Job Seekers:
-- ✅ Instant CV scoring against any job description
-- 🔍 Identifies missing skills and suggests improvements
-- 🤖 Predicts likely interview questions tailored to your resume
+-  Instant CV scoring against any job description
+-  Identifies missing skills and suggests improvements
+-  Predicts likely interview questions tailored to your resume
 
 ### For Recruiters & Companies:
-- ⚡ Auto-scores and ranks hundreds of resumes instantly
-- 🔝 Filters top candidates in minutes, not hours
-- 📬 One-click email outreach to selected applicants
-- 🧠 Generates personalized interview questions per candidate
+-  Auto-scores and ranks hundreds of resumes instantly
+-  Filters top candidates in minutes, not hours
+-  One-click email outreach to selected applicants
+-  Generates personalized interview questions per candidate
 
 ---
 
