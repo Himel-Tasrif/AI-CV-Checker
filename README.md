@@ -33,6 +33,7 @@ Our AI-powered solution addresses both challenges effortlessly!
 
 What It Does
 For Job Applicants:
+
 ✔ Instant CV scoring against any job description
 
 ✔ Identifies missing skills and suggests improvements
@@ -46,10 +47,10 @@ Before you begin, ensure you have met the following requirements:
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
 For Recruiters and Companies:
-✔ Automatically scores and ranks hundreds of applications
-✔ Filters top candidates in minutes, not hours
-✔ One-click email outreach to selected applicants
-✔ Generates customized interview questions per candidate
+1. Automatically scores and ranks hundreds of applications
+2. Filters top candidates in minutes, not hours
+4. One-click email outreach to selected applicants
+5. Generates customized interview questions per candidate
 
 Business Opportunity
 We're now offering this powerful tool for:
