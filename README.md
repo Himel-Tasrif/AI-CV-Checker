@@ -1,4 +1,4 @@
-## AI CV Checker by  "Tasrif Nur Himel"
+## AI CV Checker
 
 I'm thrilled to announce that our team has successfully developed AI CV Checker – an intelligent tool designed to transform both job hunting and recruitment processes!
 
