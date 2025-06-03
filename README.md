@@ -99,5 +99,7 @@ Interested in licensing, integration, or collaboration?
 
 Licensed under the [MIT License](./LICENSE).
 
+Tasrif Nur Himel
+
 ---
 
