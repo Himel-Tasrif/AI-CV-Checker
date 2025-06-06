@@ -90,6 +90,7 @@ Interested in licensing, integration, or collaboration?
 
 -  Email: [himel35-1078@diu.edu.bd](mailto:himel35-1078@diu.edu.bd)  
 -  LinkedIn: [Tasrif Nur Himel](https://www.linkedin.com/in/tasrifnurhimel/)
+-  Facebook: [Himel Tasrif](https://www.facebook.com/himel06)
 
 ---
 
