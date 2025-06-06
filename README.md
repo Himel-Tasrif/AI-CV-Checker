@@ -38,7 +38,7 @@ As passionate problem-solvers, we noticed two huge pain points in the job market
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript (Responsive UI)
+- **Frontend**: React (Responsive UI)
 - **Backend**: Python (AI & Logic)
 
 Responsive across **desktop, tablet, and mobile**. Clean UX for both applicants and recruiters.
