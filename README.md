@@ -59,8 +59,8 @@ Responsive across **desktop, tablet, and mobile**. Clean UX for both applicants 
 
 Before running locally, ensure:
 
-- ✅ [Git](https://git-scm.com/downloads) is installed
-- ✅ Python 3.10+ environment setup
+- [Git](https://git-scm.com/downloads) is installed
+- Python 3.10+ environment setup
 
 ---
 
@@ -98,8 +98,6 @@ Interested in licensing, integration, or collaboration?
 © 2025 [Tasrif Nur Himel](https://www.linkedin.com/in/tasrifnurhimel/). All rights reserved.
 
 Licensed under the [MIT License](./LICENSE).
-
-Tasrif Nur Himel
 
 ---
 
