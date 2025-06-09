@@ -47,9 +47,9 @@ Responsive across **desktop, tablet, and mobile**. Clean UX for both applicants 
 
 ## Demo Screenshots
 
-| Desktop Demo | Mobile Demo |
+| Desktop Demo-1 | Desktop Demo-2 |
 |--------------|-------------|
-| ![Desktop](./Image/web.png) | ![Mobile](./Image/mobile_demo.png) |
+| ![Desktop1](./Image/web.png) | ![Desktop2](./Image/mobile_demo.png) |
 
 **Video Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1kNqZJOCZfThBXK-FyzlNtbjpNcSACU6J/view?usp=drive_link)
 
