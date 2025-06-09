@@ -49,7 +49,7 @@ Responsive across **desktop, tablet, and mobile**. Clean UX for both applicants 
 
 | Desktop Demo | Mobile Demo |
 |--------------|-------------|
-| ![Desktop](./Image/desktop_demo.png) | ![Mobile](./Image/mobile_demo.png) |
+| ![Desktop](./Image/web.png) | ![Mobile](./Image/mobile_demo.png) |
 
 **Video Demo**: [Watch on Google Drive](https://drive.google.com/file/d/1kNqZJOCZfThBXK-FyzlNtbjpNcSACU6J/view?usp=drive_link)
 
